@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 
-void myInit() { 
+void myInit() {  
     glClearColor(1.0, 0.5, 0.0, 1.0); // Set background color to orange
     glMatrixMode(GL_PROJECTION);
     glLoadIdentity();       
